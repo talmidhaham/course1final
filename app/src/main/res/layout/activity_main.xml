@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:text="Click to get Toast"
         android:id="@+id/btnShowToast"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="52dp"
         android:layout_below="@id/lbl"
         />
 
